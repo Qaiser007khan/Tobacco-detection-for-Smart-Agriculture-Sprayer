@@ -1,8 +1,8 @@
-# 🌿 Tobacco and Weeds Detection for Smart Agriculture Sprayer
+# 🌿 Tobacco Detection for Smart Agriculture Sprayer
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Latest-yellow.svg)
+![YOLOv8](https://img.shields.io/badge/YOLOv5-Latest-yellow.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Field%20Testing-orange.svg)
 
@@ -24,7 +24,7 @@ This project implements an intelligent detection system for smart agriculture sp
 
 ### 🎬 Demo
 
-![Demo Video](inference/demo.mp4)
+![Demo Video](inference/resulted.mp4)
 
 *Real-time tobacco detection with automated spray control*
 
@@ -65,14 +65,10 @@ This project implements an intelligent detection system for smart agriculture sp
 
 <table>
   <tr>
-    <td><img src="results/images/detection_1.jpg" width="250"/></td>
-    <td><img src="results/images/detection_2.jpg" width="250"/></td>
-    <td><img src="results/images/detection_3.jpg" width="250"/></td>
+    <td><img src="inference/output images/108.jpg" width="250"/></td>
   </tr>
   <tr>
     <td align="center">Tobacco Plants</td>
-    <td align="center">Weed Detection</td>
-    <td align="center">Mixed Field</td>
   </tr>
 </table>
 
